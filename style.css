@@ -93,7 +93,7 @@ h2{
 }   
 
 .footer{
-  background-color:rgb(236, 202, 220);
+  background-color:bisque;
   display: flex;
   flex-direction: column;
   height: 15rem;
